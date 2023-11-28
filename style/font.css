@@ -1,0 +1,30 @@
+@font-face{
+    font-family: 'Montserrat';
+    src: url(../font/Montserrat-Regular.ttf);
+    font-weight: 400;
+}
+@font-face{
+    font-family: 'Montserrat';
+    src: url(../font/Montserrat-Bold.ttf);
+    font-weight: 700;
+}
+@font-face{
+    font-family: 'MontserratAlter';
+    src: url(../font/MontserratAlternates-Regular.ttf);
+    font-weight: 400;
+}
+@font-face{
+    font-family: 'Releway';
+    src: url(../font/Raleway-Bold.ttf);
+    font-weight: 700;
+}
+@font-face{
+    font-family: 'Roboto';
+    src: url(../font/Roboto-Regular.ttf);
+    font-weight: 400;
+}
+@font-face{
+    font-family: 'Roboto';
+    src: url(../font/Roboto-Bold.ttf);
+    font-weight: 700;
+}
